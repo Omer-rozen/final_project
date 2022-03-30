@@ -5,6 +5,7 @@
 
 import json
 import requests
+import pandas
 from os import makedirs
 from os.path import join, exists
 from datetime import date, timedelta
